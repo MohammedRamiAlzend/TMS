@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35027.167
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TMS.Server", "TMS.Server\TMS.Server.csproj", "{9A2C6BBD-1151-4582-95D6-22699762A6D6}"
+EndProject
+Project("{54A90642-561A-4BB1-A94E-469ADEE60C69}") = "tms.client", "tms.client\tms.client.esproj", "{2EEE95B0-6421-4C56-A19D-BA461204E86E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9A2C6BBD-1151-4582-95D6-22699762A6D6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9A2C6BBD-1151-4582-95D6-22699762A6D6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9A2C6BBD-1151-4582-95D6-22699762A6D6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9A2C6BBD-1151-4582-95D6-22699762A6D6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2EEE95B0-6421-4C56-A19D-BA461204E86E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2EEE95B0-6421-4C56-A19D-BA461204E86E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2EEE95B0-6421-4C56-A19D-BA461204E86E}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{2EEE95B0-6421-4C56-A19D-BA461204E86E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2EEE95B0-6421-4C56-A19D-BA461204E86E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2EEE95B0-6421-4C56-A19D-BA461204E86E}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8AC2B42C-70E4-45EB-A0B8-57A3EE9F2EB4}
+	EndGlobalSection
+EndGlobal
